@@ -1,0 +1,26 @@
+{
+  "name": "employee-management-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employeeManagement.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alysonorta/employee-management-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alysonorta/employee-management-tracker/issues"
+  },
+  "homepage": "https://github.com/alysonorta/employee-management-tracker#readme"
+}
